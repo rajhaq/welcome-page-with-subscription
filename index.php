@@ -36,7 +36,7 @@
 				<div class="inner-container container">
 					<div class="l-sec col-md-4">
 						<a href="#" id="t-logo">
-							<span class="title"><img src="img/name.png" height="80"></span>
+							<span class="title"><img src="img/name.png" class="img-fluid"></span>
 						</a>
 					</div>
 				</div>
